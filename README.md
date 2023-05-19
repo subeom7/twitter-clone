@@ -1,5 +1,5 @@
 # Twitter-Clone
-Full-stack Twitter clone with React, Tailwind CSS, Next.js, Prisma, MongoDB, NextAuth.js & Vercel
+Full-Stack Twitter clone with React, Tailwind CSS, Next.js, Prisma, MongoDB, NextAuth.js & Vercel
 
 # Used Tools & Frameworks
 
